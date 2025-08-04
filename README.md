@@ -1,5 +1,5 @@
 # SalonOS-ClientSide ✂️
-## Este é o frontend da aplicação, acesse: 
+## Este é o frontend da aplicação. Caso queira visualizar o repositório do backend, acesse: https://github.com/GabrielDoSaaS/SalonOS-ServerSide
 **SalonOS** é um SaaS dedicado a ajudar barbearias a simplificar:
  -  Clientes agendarem seus atendimentos
  -  Gerenciamento de funcionários e valores de seus serviços
