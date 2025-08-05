@@ -5,4 +5,3 @@
  -  Gerenciamento de funcionários e valores de seus serviços
  -  Exigir pagamento antecipado na plataforma para reservar horário
 
-**O projeto está no ar,** acesse:  https://saborbit-1.onrender.com/
